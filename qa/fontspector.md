@@ -75,13 +75,18 @@ Original proposal: [https://github.com/googlefonts/fontbakery/issues/4147]
 
 | Message                                                           | Languages                    |
 |-------------------------------------------------------------------|------------------------------|
-| Auxiliary orthography codepoints:                                 | * de_Latn (German)           |
-|   The following auxiliary characters are missing from the font: ſ |                              |
+| Auxiliary orthography codepoints:                                 | * en_Latn (English)          |
+|   The following auxiliary characters are missing from the font: ʻ |                              |
 | Auxiliary orthography codepoints:                                 | * da_Latn (Danish)           |
 |   The following auxiliary characters are missing from the font: Ǿ |                              |
 |   The following auxiliary characters are missing from the font: ǿ |                              |
-| Auxiliary orthography codepoints:                                 | * en_Latn (English)          |
-|   The following auxiliary characters are missing from the font: ʻ |                              |
+| Auxiliary orthography codepoints:                                 | * ca_Latn (Catalan)          |
+|   The following auxiliary characters are missing from the font: Ŀ |                              |
+|   The following auxiliary characters are missing from the font: ŀ |                              |
+| Auxiliary orthography codepoints:                                 | * fr_Latn (French)           |
+|   The following auxiliary characters are missing from the font: Ǔ |                              |
+|   The following auxiliary characters are missing from the font: ſ |                              |
+|   The following auxiliary characters are missing from the font: ǔ |                              |
 | Auxiliary orthography codepoints:                                 | * fi_Latn (Finnish)          |
 |   The following auxiliary characters are missing from the font: Ǧ |                              |
 |   The following auxiliary characters are missing from the font: Ǥ |                              |
@@ -103,13 +108,6 @@ Original proposal: [https://github.com/googlefonts/fontbakery/issues/4147]
 |   The following auxiliary characters are missing from the font: ŧ |                              |
 |   The following auxiliary characters are missing from the font: ʒ |                              |
 |   The following auxiliary characters are missing from the font: ǯ |                              |
-| Auxiliary orthography codepoints:                                 | * fr_Latn (French)           |
-|   The following auxiliary characters are missing from the font: Ǔ |                              |
-|   The following auxiliary characters are missing from the font: ſ |                              |
-|   The following auxiliary characters are missing from the font: ǔ |                              |
-| Auxiliary orthography codepoints:                                 | * ro_Latn (Romanian)         |
-|   The following auxiliary characters are missing from the font: Ţ |                              |
-|   The following auxiliary characters are missing from the font: ţ |                              |
 | Auxiliary orthography codepoints:                                 | * lt_Latn (Lithuanian)       |
 |   The following auxiliary characters are missing from the font: Ẽ |                              |
 |   The following auxiliary characters are missing from the font: Ĩ |                              |
@@ -117,12 +115,6 @@ Original proposal: [https://github.com/googlefonts/fontbakery/issues/4147]
 |   The following auxiliary characters are missing from the font: ẽ |                              |
 |   The following auxiliary characters are missing from the font: ĩ |                              |
 |   The following auxiliary characters are missing from the font: ũ |                              |
-| Auxiliary orthography codepoints:                                 | * ca_Latn (Catalan)          |
-|   The following auxiliary characters are missing from the font: Ŀ |                              |
-|   The following auxiliary characters are missing from the font: ŀ |                              |
-| Auxiliary orthography codepoints:                                 | * lv_Latn (Latvian)          |
-|   The following auxiliary characters are missing from the font: Ŗ |                              |
-|   The following auxiliary characters are missing from the font: ŗ |                              |
 | Auxiliary orthography codepoints:                                 | * nb_Latn (Norwegian Bokmål) |
 |   The following auxiliary characters are missing from the font: Ǎ |                              |
 |   The following auxiliary characters are missing from the font: Ŋ |                              |
@@ -130,9 +122,17 @@ Original proposal: [https://github.com/googlefonts/fontbakery/issues/4147]
 |   The following auxiliary characters are missing from the font: ǎ |                              |
 |   The following auxiliary characters are missing from the font: ŋ |                              |
 |   The following auxiliary characters are missing from the font: ŧ |                              |
+| Auxiliary orthography codepoints:                                 | * ro_Latn (Romanian)         |
+|   The following auxiliary characters are missing from the font: Ţ |                              |
+|   The following auxiliary characters are missing from the font: ţ |                              |
 | Auxiliary orthography codepoints:                                 | * nl_Latn (Dutch)            |
 |   The following auxiliary characters are missing from the font: Ĳ |                              |
-|   The following auxiliary characters are missing from the font: ĳ |                              | [code: warning-language-shaping]
+|   The following auxiliary characters are missing from the font: ĳ |                              |
+| Auxiliary orthography codepoints:                                 | * lv_Latn (Latvian)          |
+|   The following auxiliary characters are missing from the font: Ŗ |                              |
+|   The following auxiliary characters are missing from the font: ŗ |                              |
+| Auxiliary orthography codepoints:                                 | * de_Latn (German)           |
+|   The following auxiliary characters are missing from the font: ſ |                              | [code: warning-language-shaping]
   
   
 
@@ -395,20 +395,20 @@ Original proposal: [https://github.com/fonttools/fontbakery/issues/4097 and http
 
 - ⚠️ **WARN** googlefonts/ofl/sirenandsailor/SirenandSailor-Regular.ttf: The following codepoints supported by the font are not covered by any subsets defined in the font's metadata file, and will never be served. You can solve this by either manually adding additional subset declarations to METADATA.pb, or by editing the glyphset definitions.
 
-* U+02D8 BREVE: try adding one of: yi, canadian-aboriginal
-* U+02D9 DOT ABOVE: try adding one of: canadian-aboriginal, yi
-* U+02DB OGONEK: try adding one of: yi, canadian-aboriginal
-* U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, tifinagh, coptic, cherokee
-* U+0306 COMBINING BREVE: try adding one of: tifinagh, old-permic
-* U+0307 COMBINING DOT ABOVE: try adding one of: math, tifinagh, tai-le, malayalam, coptic, hebrew, syriac, old-permic, todhri, duployan, canadian-aboriginal
-* U+030A COMBINING RING ABOVE: try adding one of: duployan, syriac
+* U+02D8 BREVE: try adding one of: canadian-aboriginal, yi
+* U+02D9 DOT ABOVE: try adding one of: yi, canadian-aboriginal
+* U+02DB OGONEK: try adding one of: canadian-aboriginal, yi
+* U+0302 COMBINING CIRCUMFLEX ACCENT: try adding one of: math, coptic, cherokee, tifinagh
+* U+0306 COMBINING BREVE: try adding one of: old-permic, tifinagh
+* U+0307 COMBINING DOT ABOVE: try adding one of: hebrew, todhri, duployan, coptic, old-permic, tai-le, syriac, canadian-aboriginal, tifinagh, math, malayalam
+* U+030A COMBINING RING ABOVE: try adding one of: syriac, duployan
 * U+030B COMBINING DOUBLE ACUTE ACCENT: try adding one of: osage, cherokee
 * U+030C COMBINING CARON: try adding one of: tai-le, cherokee
 * U+0326 COMBINING COMMA BELOW: try adding math
 * U+0327 COMBINING CEDILLA: try adding math
-* U+200C ZERO WIDTH NON-JOINER: try adding one of: syriac, zanabazar-square, khojki, meetei-mayek, devanagari, myanmar, dogra, sogdian, arabic, avestan, cham, lao, tagbanwa, gurmukhi, khudawadi, hatran, mandaic, tai-le, tai-viet, yi, balinese, brahmi, thaana, malayalam, takri, pahawh-hmong, sharada, buhid, hanunoo, sinhala, bengali, syloti-nagri, kannada, phags-pa, tibetan, new-tai-lue, hebrew, sundanese, tagalog, siddham, masaram-gondi, tai-tham, chakma, gunjala-gondi, saurashtra, tamil, limbu, modi, tirhuta, tifinagh, duployan, buginese, oriya, warang-citi, bhaiksuki, khmer, kharoshthi, kayah-li, javanese, mongolian, psalter-pahlavi, gujarati, rejang, batak, hanifi-rohingya, grantha, kaithi, lepcha, manichaean, newa, mahajani, nko, telugu, thai
-* U+200D ZERO WIDTH JOINER: try adding one of: rejang, phags-pa, khmer, tirhuta, bhaiksuki, old-hungarian, telugu, tibetan, khudawadi, modi, kharoshthi, hanunoo, thaana, pahawh-hmong, tagalog, yi, lao, hanifi-rohingya, gurmukhi, oriya, new-tai-lue, masaram-gondi, arabic, newa, limbu, lepcha, manichaean, mongolian, sharada, grantha, tai-tham, mandaic, warang-citi, balinese, myanmar, psalter-pahlavi, buginese, devanagari, duployan, saurashtra, avestan, kayah-li, brahmi, cham, javanese, tai-le, tai-viet, thai, bengali, malayalam, chakma, batak, takri, khojki, sundanese, tamil, zanabazar-square, gujarati, gunjala-gondi, dogra, sinhala, kannada, hebrew, meetei-mayek, buhid, nko, syloti-nagri, tagbanwa, siddham, kaithi, syriac, tifinagh, sogdian, mahajani
-* U+25CC DOTTED CIRCLE: try adding one of: thai, tirhuta, wancho, tai-viet, caucasian-albanian, myanmar, warang-citi, bhaiksuki, duployan, kharoshthi, bassa-vah, javanese, kannada, khudawadi, lao, mandaic, manichaean, cham, malayalam, marchen, saurashtra, limbu, adlam, mende-kikakui, modi, tagbanwa, buginese, rejang, chakma, devanagari, khojki, math, soyombo, buhid, nko, tagalog, tai-tham, yi, ahom, mongolian, canadian-aboriginal, sinhala, elbasan, brahmi, hebrew, miao, tai-le, tamil, telugu, phags-pa, armenian, symbols, takri, mahajani, zanabazar-square, batak, gurmukhi, gujarati, osage, grantha, sharada, bengali, newa, sundanese, pahawh-hmong, tibetan, khmer, lepcha, music, dogra, kaithi, sogdian, tifinagh, thaana, hanunoo, coptic, meetei-mayek, oriya, balinese, hanifi-rohingya, masaram-gondi, psalter-pahlavi, syloti-nagri, kayah-li, old-permic, siddham, gunjala-gondi, new-tai-lue, syriac
+* U+200C ZERO WIDTH NON-JOINER: try adding one of: warang-citi, khudawadi, lepcha, manichaean, hatran, hebrew, cham, mongolian, tirhuta, batak, rejang, kannada, limbu, meetei-mayek, psalter-pahlavi, kayah-li, modi, tibetan, tamil, tai-viet, zanabazar-square, dogra, devanagari, sundanese, mahajani, thaana, chakma, mandaic, saurashtra, khojki, tagbanwa, avestan, grantha, balinese, siddham, javanese, bengali, sharada, yi, arabic, kharoshthi, buginese, new-tai-lue, syriac, tagalog, tai-tham, hanunoo, malayalam, masaram-gondi, gurmukhi, pahawh-hmong, takri, gujarati, myanmar, khmer, brahmi, bhaiksuki, tifinagh, hanifi-rohingya, sinhala, sogdian, phags-pa, telugu, kaithi, gunjala-gondi, newa, oriya, syloti-nagri, buhid, duployan, lao, nko, tai-le, thai
+* U+200D ZERO WIDTH JOINER: try adding one of: phags-pa, telugu, tifinagh, tibetan, kaithi, manichaean, kayah-li, buginese, gurmukhi, new-tai-lue, mongolian, masaram-gondi, nko, tai-viet, hanifi-rohingya, chakma, tamil, oriya, khudawadi, limbu, khmer, batak, zanabazar-square, cham, arabic, sundanese, pahawh-hmong, mahajani, newa, tai-le, kharoshthi, old-hungarian, saurashtra, tagbanwa, thaana, sharada, psalter-pahlavi, yi, kannada, myanmar, takri, devanagari, malayalam, sogdian, hanunoo, lepcha, mandaic, javanese, gunjala-gondi, lao, brahmi, bhaiksuki, modi, sinhala, syloti-nagri, balinese, tirhuta, avestan, warang-citi, khojki, meetei-mayek, tai-tham, dogra, thai, duployan, buhid, siddham, tagalog, hebrew, rejang, grantha, syriac, bengali, gujarati
+* U+25CC DOTTED CIRCLE: try adding one of: new-tai-lue, buginese, miao, pahawh-hmong, brahmi, cham, thaana, sharada, javanese, sinhala, tibetan, mende-kikakui, tagbanwa, tifinagh, rejang, zanabazar-square, bassa-vah, manichaean, math, kannada, syloti-nagri, tai-le, tirhuta, gujarati, bhaiksuki, mandaic, oriya, caucasian-albanian, myanmar, batak, tai-viet, warang-citi, duployan, elbasan, mahajani, syriac, tagalog, grantha, osage, hebrew, malayalam, armenian, psalter-pahlavi, siddham, balinese, soyombo, kharoshthi, gunjala-gondi, limbu, music, nko, khojki, mongolian, telugu, gurmukhi, buhid, phags-pa, masaram-gondi, hanifi-rohingya, ahom, sogdian, chakma, dogra, coptic, canadian-aboriginal, newa, modi, kaithi, tamil, meetei-mayek, old-permic, sundanese, lepcha, kayah-li, lao, tai-tham, saurashtra, bengali, hanunoo, khudawadi, takri, wancho, yi, marchen, adlam, thai, symbols, khmer, devanagari
 
 Or you can add the above codepoints to one of the subsets supported by the font: latin-ext, latin [code: unreachable-subsetting]
   

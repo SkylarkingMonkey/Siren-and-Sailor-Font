@@ -1,6 +1,6 @@
 # Siren and Sailor — submission readiness
 
-Prepared September 25, 2026. Candidate 1.000. Designer: Jean-Marc Dykes.
+Prepared September 25, 2026. Candidate 1.000. Designer: Jean-Marc Daecius.
 
 The owner pushed the initial project to `https://github.com/SkylarkingMonkey/Siren-and-Sailor-Font`, applied SIL OFL 1.1 with the project's explicit approval flag, and reports submitting the Google Individual CLA. The source, rebuilt binaries, root/staged OFL files and description now use the same project copyright and repository URL. Public visibility has not been verified; the updated project files still need to be committed and pushed from the owner's Mac. Google has not received or accepted a submission.
 

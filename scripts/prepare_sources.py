@@ -66,10 +66,10 @@ def spacing(f):
 def meta(f):
  i=f.info;i.familyName='Siren and Sailor';i.styleName='Regular';i.styleMapFamilyName='Siren and Sailor';i.styleMapStyleName='regular'
  i.versionMajor=1;i.versionMinor=0;i.unitsPerEm=1400;i.ascender=1430;i.descender=-470;i.capHeight=1000;i.xHeight=680
- i.copyright='Copyright 2026 Jean-Marc Dykes'
- i.openTypeNameDesigner='Jean-Marc Dykes'
- i.openTypeNameManufacturer='Jean-Marc Dykes'
- i.openTypeNameDescription='A nautical display serif designed by Jean-Marc Dykes. Swept serifs, hook terminals and calligraphic contrast. Best at display sizes.'
+ i.copyright='Copyright 2026 Jean-Marc Daecius'
+ i.openTypeNameDesigner='Jean-Marc Daecius'
+ i.openTypeNameManufacturer='Jean-Marc Daecius'
+ i.openTypeNameDescription='A nautical display serif designed by Jean-Marc Daecius. Swept serifs, hook terminals and calligraphic contrast. Best at display sizes.'
  i.openTypeNameLicense='This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org'
  i.openTypeNameLicenseURL='https://openfontlicense.org'
  i.openTypeNameVersion='Version 1.000'

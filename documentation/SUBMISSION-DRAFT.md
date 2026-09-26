@@ -10,7 +10,7 @@ https://github.com/SkylarkingMonkey/Siren-and-Sailor-Font — the initial push s
 
 ## Short description
 
-Siren and Sailor is a nautical display serif designed by Jean-Marc Dykes. Its fishing-hook curves, sharp barbs, wave-shaped terminals, and contrasting strokes give it a distinctive maritime character. The initial family consists of one static Regular style. The presentation name is **Siren&Sailor**; the proposed font-menu and catalog name is **Siren and Sailor**.
+Siren and Sailor is a nautical display serif designed by Jean-Marc Daecius. Its fishing-hook curves, sharp barbs, wave-shaped terminals, and contrasting strokes give it a distinctive maritime character. The initial family consists of one static Regular style. The presentation name is **Siren&Sailor**; the proposed font-menu and catalog name is **Siren and Sailor**.
 
 ## Submission checklist
 

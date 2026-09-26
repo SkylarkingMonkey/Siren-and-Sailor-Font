@@ -22,7 +22,7 @@ from urllib.parse import urlsplit
 
 ROOT = Path(__file__).resolve().parents[1]
 FAMILY = "Siren and Sailor"
-ORIGINAL_COPYRIGHT = "Copyright 2026 Jean-Marc Dykes"
+ORIGINAL_COPYRIGHT = "Copyright 2026 Jean-Marc Daecius"
 LICENSE_TEXT = (
     "This Font Software is licensed under the SIL Open Font License, Version 1.1. "
     "This license is available with a FAQ at: https://openfontlicense.org"

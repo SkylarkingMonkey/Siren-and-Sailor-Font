@@ -1,6 +1,6 @@
 # Siren and Sailor
 
-**Siren&Sailor** is a nautical display serif designed by **Jean-Marc Dykes**. Its swept serifs, sharp hooks, barbs and stroke contrast come from the designer's original lettering and detailed revisions. The font-menu family is **Siren and Sailor** for Google Fonts naming compatibility.
+**Siren&Sailor** is a nautical display serif designed by **Jean-Marc Daecius**. Its swept serifs, sharp hooks, barbs and stroke contrast come from the designer's original lettering and detailed revisions. The font-menu family is **Siren and Sailor** for Google Fonts naming compatibility.
 
 ![Siren and Sailor specimen](proofs/SirenandSailor-Specimen.png)
 

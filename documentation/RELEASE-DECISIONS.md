@@ -6,7 +6,7 @@ This package prepares a static Regular font for review and eventual Google Fonts
 
 | Item | Proposed value | Status |
 | --- | --- | --- |
-| Designer | Jean-Marc Dykes | Taken from the project owner's identity; confirm the complete copyright-holder list before release. |
+| Designer | Jean-Marc Daecius | Taken from the project owner's identity; confirm the complete copyright-holder list before release. |
 | Presentation name | Siren&Sailor | User-selected branding. |
 | Font-menu and catalog name | Siren and Sailor | Proposed spelling compatible with Google's naming guidance; final name check and confirmation remain open. |
 | Initial style | Regular | One static style. |
@@ -21,7 +21,7 @@ Google Fonts requires the entire family under SIL OFL 1.1, ordinarily without Re
 
 Under the OFL, users may use, embed, modify, and redistribute the font under its conditions, including use in commercial work. Font software and derivatives remain under the OFL; documents and artwork created using the font do not have to use that license. The license does not permit selling the font software by itself. Copyright is not transferred to Google by the OFL or the CLA.
 
-The owner ran the finalization script with `--approve-ofl`. The root `OFL.txt` and the staged Google Fonts copy use the same finalized project copyright notice; `AUTHORS.txt` identifies Jean-Marc Dykes. This action does not itself make the repository public.
+The owner ran the finalization script with `--approve-ofl`. The root `OFL.txt` and the staged Google Fonts copy use the same finalized project copyright notice; `AUTHORS.txt` identifies Jean-Marc Daecius. This action does not itself make the repository public.
 
 The matching copyright notice in the source, rebuilt binary and root `OFL.txt` is:
 
