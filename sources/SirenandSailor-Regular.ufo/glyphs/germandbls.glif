@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="germandbls" format="2">
+  <advance width="916"/>
+  <unicode hex="00DF"/>
+  <note>
+Continuous sharp-s drawing with a swept foot and hooked, open lower terminal.
+</note>
+  <anchor x="458" y="1586" name="top"/>
+  <anchor x="458" y="-26" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="219.4286" y="155.0629" type="line" smooth="yes"/>
+      <point x="219.4286" y="102.4"/>
+      <point x="210.6514" y="67.2914"/>
+      <point x="188.7086" y="48.2743" type="curve"/>
+      <point x="156.5257" y="26.3314"/>
+      <point x="102.4" y="19.0171"/>
+      <point x="58.5143" y="-26.3314" type="curve"/>
+      <point x="137.5086" y="2.9257"/>
+      <point x="193.0971" y="14.6286"/>
+      <point x="269.1657" y="14.6286" type="curve" smooth="yes"/>
+      <point x="298.4229" y="14.6286"/>
+      <point x="324.7543" y="1.4629"/>
+      <point x="358.4" y="-10.24" type="curve"/>
+      <point x="324.7543" y="8.7771"/>
+      <point x="308.6629" y="36.5714"/>
+      <point x="308.6629" y="87.7714" type="curve" smooth="yes"/>
+      <point x="308.6629" y="1094.2171" type="line" smooth="yes"/>
+      <point x="308.6629" y="1316.5714"/>
+      <point x="375.9543" y="1432.1371"/>
+      <point x="500.2971" y="1432.1371" type="curve" smooth="yes"/>
+      <point x="596.8457" y="1432.1371"/>
+      <point x="672.9143" y="1358.9943"/>
+      <point x="672.9143" y="1233.1886" type="curve" smooth="yes"/>
+      <point x="672.9143" y="1104.4571"/>
+      <point x="563.2" y="969.8743"/>
+      <point x="377.4171" y="794.3314" type="curve"/>
+      <point x="375.9543" y="746.0571" type="line"/>
+      <point x="428.6171" y="740.2057" type="line" smooth="yes"/>
+      <point x="637.8057" y="706.56"/>
+      <point x="751.9086" y="577.8286"/>
+      <point x="751.9086" y="348.16" type="curve" smooth="yes"/>
+      <point x="751.9086" y="171.1543"/>
+      <point x="669.9886" y="46.8114"/>
+      <point x="522.24" y="46.8114" type="curve" smooth="yes"/>
+      <point x="478.3543" y="46.8114"/>
+      <point x="435.9314" y="71.68"/>
+      <point x="415.4514" y="121.4171" type="curve"/>
+      <point x="406.6743" y="78.9943"/>
+      <point x="380.3429" y="59.9771"/>
+      <point x="336.4571" y="76.0686" type="curve"/>
+      <point x="377.4171" y="16.0914"/>
+      <point x="447.6343" y="-23.4057"/>
+      <point x="533.9429" y="-23.4057" type="curve" smooth="yes"/>
+      <point x="725.5771" y="-23.4057"/>
+      <point x="857.2343" y="124.3429"/>
+      <point x="857.2343" y="349.6229" type="curve" smooth="yes"/>
+      <point x="857.2343" y="593.92"/>
+      <point x="677.3029" y="756.2971"/>
+      <point x="482.7429" y="797.2571" type="curve"/>
+      <point x="640.7314" y="952.32"/>
+      <point x="775.3143" y="1081.0514"/>
+      <point x="775.3143" y="1234.6514" type="curve" smooth="yes"/>
+      <point x="775.3143" y="1380.9371"/>
+      <point x="671.4514" y="1483.3371"/>
+      <point x="501.76" y="1483.3371" type="curve" smooth="yes"/>
+      <point x="332.0686" y="1483.3371"/>
+      <point x="219.4286" y="1350.2171"/>
+      <point x="219.4286" y="1067.8857" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

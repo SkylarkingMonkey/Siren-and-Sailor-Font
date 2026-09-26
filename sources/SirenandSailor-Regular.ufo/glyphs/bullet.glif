@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bullet" format="2">
+  <advance width="348"/>
+  <unicode hex="2022"/>
+  <outline>
+    <contour>
+      <point x="267.7029" y="585.1429" type="curve" smooth="yes"/>
+      <point x="267.7029" y="636.8493"/>
+      <point x="225.7865" y="678.7657"/>
+      <point x="174.08" y="678.7657" type="curve" smooth="yes"/>
+      <point x="122.3735" y="678.7657"/>
+      <point x="80.4571" y="636.8493"/>
+      <point x="80.4571" y="585.1429" type="curve" smooth="yes"/>
+      <point x="80.4571" y="533.4364"/>
+      <point x="122.3735" y="491.52"/>
+      <point x="174.08" y="491.52" type="curve" smooth="yes"/>
+      <point x="225.7865" y="491.52"/>
+      <point x="267.7029" y="533.4364"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dcaron" format="2">
+  <advance width="1532"/>
+  <unicode hex="010E"/>
+  <anchor x="774" y="1606" name="top"/>
+  <anchor x="774" y="-73" name="bottom"/>
+  <outline>
+    <component base="D"/>
+    <component base="uni030C" xOffset="774" yOffset="1606"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lcaron" format="2">
+  <advance width="1425"/>
+  <unicode hex="013D"/>
+  <anchor x="635" y="1592" name="top"/>
+  <anchor x="635" y="-32" name="bottom"/>
+  <outline>
+    <component base="L"/>
+    <component base="caroncomb.alt" xOffset="1249" yOffset="1148"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

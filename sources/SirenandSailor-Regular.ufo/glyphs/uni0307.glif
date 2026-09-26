@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0307" format="2">
+  <unicode hex="0307"/>
+  <anchor x="0" y="0" name="_top"/>
+  <anchor x="0" y="329" name="top"/>
+  <outline>
+    <contour>
+      <point x="-52.6629" y="115.5657" type="curve"/>
+      <point x="-46.8114" y="182.8571"/>
+      <point x="-16.0914" y="229.6686"/>
+      <point x="49.7371" y="253.0743" type="curve"/>
+      <point x="46.8114" y="190.1714"/>
+      <point x="32.1829" y="133.12"/>
+      <point x="7.3143" y="100.9371" type="curve"/>
+      <point x="-23.4057" y="89.2343"/>
+      <point x="-45.3486" y="89.2343"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>mark</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ibreve" format="2">
+  <advance width="473"/>
+  <unicode hex="012D"/>
+  <anchor x="237" y="1126" name="top"/>
+  <anchor x="237" y="-31" name="bottom"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="uni0306" xOffset="237" yOffset="1126"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

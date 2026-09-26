@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="multiply" format="2">
+  <advance width="1126"/>
+  <unicode hex="00D7"/>
+  <outline>
+    <contour>
+      <point x="136.0457" y="952.32" type="line"/>
+      <point x="955.2457" y="133.12" type="line"/>
+      <point x="990.3543" y="168.2286" type="line"/>
+      <point x="171.1543" y="987.4286" type="line"/>
+    </contour>
+    <contour>
+      <point x="136.0457" y="168.2286" type="line"/>
+      <point x="171.1543" y="133.12" type="line"/>
+      <point x="990.3543" y="952.32" type="line"/>
+      <point x="955.2457" y="987.4286" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

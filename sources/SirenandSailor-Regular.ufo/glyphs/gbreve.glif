@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gbreve" format="2">
+  <advance width="920"/>
+  <unicode hex="011F"/>
+  <anchor x="458" y="1123" name="top"/>
+  <anchor x="458" y="-575" name="bottom"/>
+  <outline>
+    <component base="g"/>
+    <component base="uni0306" xOffset="458" yOffset="1123"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

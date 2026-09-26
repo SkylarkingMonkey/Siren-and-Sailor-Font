@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tcaron" format="2">
+  <advance width="1599"/>
+  <unicode hex="0164"/>
+  <anchor x="800" y="1761" name="top"/>
+  <anchor x="800" y="-56" name="bottom"/>
+  <outline>
+    <component base="T"/>
+    <component base="uni030C" xOffset="800" yOffset="1761"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

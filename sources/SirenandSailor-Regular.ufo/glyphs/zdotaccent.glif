@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zdotaccent" format="2">
+  <advance width="889"/>
+  <unicode hex="017C"/>
+  <anchor x="445" y="1106" name="top"/>
+  <anchor x="445" y="-25" name="bottom"/>
+  <outline>
+    <component base="z"/>
+    <component base="uni0307" xOffset="445" yOffset="1106"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

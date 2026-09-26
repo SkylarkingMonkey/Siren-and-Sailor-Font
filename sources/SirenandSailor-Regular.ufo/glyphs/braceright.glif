@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="braceright" format="2">
+  <advance width="636"/>
+  <unicode hex="007D"/>
+  <outline>
+    <contour>
+      <point x="80.4571" y="1609.1429" type="line"/>
+      <point x="298.4229" y="1609.1429"/>
+      <point x="337.92" y="1481.8743"/>
+      <point x="337.92" y="1293.1657" type="curve" smooth="yes"/>
+      <point x="337.92" y="966.9486" type="line" smooth="yes"/>
+      <point x="337.92" y="811.8857"/>
+      <point x="405.2114" y="737.28"/>
+      <point x="555.8857" y="708.0229" type="curve"/>
+      <point x="555.8857" y="659.7486" type="line"/>
+      <point x="405.2114" y="630.4914"/>
+      <point x="337.92" y="555.8857"/>
+      <point x="337.92" y="400.8229" type="curve" smooth="yes"/>
+      <point x="337.92" y="67.2914" type="line" smooth="yes"/>
+      <point x="337.92" y="-121.4171"/>
+      <point x="298.4229" y="-248.6857"/>
+      <point x="80.4571" y="-248.6857" type="curve"/>
+      <point x="80.4571" y="-200.4114" type="line"/>
+      <point x="247.2229" y="-200.4114"/>
+      <point x="276.48" y="-103.8629"/>
+      <point x="276.48" y="70.2171" type="curve" smooth="yes"/>
+      <point x="276.48" y="400.8229" type="line" smooth="yes"/>
+      <point x="276.48" y="550.0343"/>
+      <point x="321.8286" y="636.3429"/>
+      <point x="463.7257" y="684.6171" type="curve"/>
+      <point x="321.8286" y="731.4286"/>
+      <point x="276.48" y="817.7371"/>
+      <point x="276.48" y="966.9486" type="curve" smooth="yes"/>
+      <point x="276.48" y="1293.1657" type="line" smooth="yes"/>
+      <point x="276.48" y="1467.2457"/>
+      <point x="247.2229" y="1560.8686"/>
+      <point x="80.4571" y="1560.8686" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+name: "Siren and Sailor"
+designer: "Jean-Marc Dykes"
+license: "OFL"
+category: "SERIF"
+# Draft: date_added must be set when Google Fonts actually adds the family.
+fonts {
+  name: "Siren and Sailor"
+  style: "normal"
+  weight: 400
+  filename: "SirenandSailor-Regular.ttf"
+  post_script_name: "SirenandSailor-Regular"
+  full_name: "Siren and Sailor Regular"
+  copyright: "Copyright 2026 The Siren and Sailor Project Authors (https://github.com/SkylarkingMonkey/Siren-and-Sailor-Font)"
+}
+subsets: "latin"
+subsets: "latin-ext"
+subsets: "menu"
+stroke: "SERIF"
+classifications: "DISPLAY"
+source {
+  repository_url: "https://github.com/SkylarkingMonkey/Siren-and-Sailor-Font"
+}

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Odieresis" format="2">
+  <advance width="1336"/>
+  <unicode hex="00D6"/>
+  <anchor x="669" y="1581" name="top"/>
+  <anchor x="669" y="-32" name="bottom"/>
+  <outline>
+    <component base="O"/>
+    <component base="uni0308" xOffset="669" yOffset="1581"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

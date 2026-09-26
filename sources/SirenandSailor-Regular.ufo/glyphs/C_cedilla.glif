@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ccedilla" format="2">
+  <advance width="1233"/>
+  <unicode hex="00C7"/>
+  <anchor x="620" y="1650" name="top"/>
+  <anchor x="620" y="-57" name="bottom"/>
+  <outline>
+    <component base="C"/>
+    <component base="uni0327" xOffset="620" yOffset="-57"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

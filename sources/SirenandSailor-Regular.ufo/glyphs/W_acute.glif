@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wacute" format="2">
+  <advance width="2224"/>
+  <unicode hex="1E82"/>
+  <anchor x="1112" y="1619" name="top"/>
+  <anchor x="1112" y="-50" name="bottom"/>
+  <outline>
+    <component base="W"/>
+    <component base="acutecomb" xOffset="1112" yOffset="1619"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

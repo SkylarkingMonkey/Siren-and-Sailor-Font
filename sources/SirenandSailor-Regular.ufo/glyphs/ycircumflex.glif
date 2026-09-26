@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ycircumflex" format="2">
+  <advance width="1191"/>
+  <unicode hex="0177"/>
+  <anchor x="592" y="1128" name="top"/>
+  <anchor x="592" y="-360" name="bottom"/>
+  <outline>
+    <component base="y"/>
+    <component base="uni0302" xOffset="592" yOffset="1128"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

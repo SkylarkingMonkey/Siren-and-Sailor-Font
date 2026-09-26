@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni021B" format="2">
+  <advance width="669"/>
+  <unicode hex="021B"/>
+  <anchor x="336" y="1390" name="top"/>
+  <anchor x="336" y="-31" name="bottom"/>
+  <outline>
+    <component base="t"/>
+    <component base="uni0326" xOffset="336" yOffset="-31"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

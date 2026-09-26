@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaabovecomb" format="2">
+  <anchor x="0" y="0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="49.7371" y="45.3486" type="curve"/>
+      <point x="92.16" y="122.88"/>
+      <point x="48.2743" y="181.3943"/>
+      <point x="-27.7943" y="166.7657" type="curve"/>
+      <point x="-8.7771" y="219.4286"/>
+      <point x="36.5714" y="251.6114"/>
+      <point x="86.3086" y="282.3314" type="curve"/>
+      <point x="20.48" y="275.0171"/>
+      <point x="-84.8457" y="203.3371"/>
+      <point x="-95.0857" y="125.8057" type="curve" smooth="yes"/>
+      <point x="-102.4" y="59.9771"/>
+      <point x="-13.1657" y="17.5543"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>mark</string>
+    </dict>
+  </lib>
+</glyph>

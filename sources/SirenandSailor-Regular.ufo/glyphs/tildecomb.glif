@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb" format="2">
+  <unicode hex="0303"/>
+  <anchor x="0" y="0" name="_top"/>
+  <anchor x="0" y="329" name="top"/>
+  <outline>
+    <contour>
+      <point x="-242.8343" y="71.68" type="curve"/>
+      <point x="-168.2286" y="196.0229"/>
+      <point x="-78.9943" y="200.4114"/>
+      <point x="23.4057" y="137.5086" type="curve"/>
+      <point x="111.1771" y="76.0686"/>
+      <point x="157.9886" y="57.0514"/>
+      <point x="234.0571" y="155.0629" type="curve"/>
+      <point x="217.9657" y="52.6629"/>
+      <point x="141.8971" y="2.9257"/>
+      <point x="48.2743" y="42.4229" type="curve"/>
+      <point x="-70.2171" y="100.9371"/>
+      <point x="-127.2686" y="174.08"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>mark</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecaron" format="2">
+  <advance width="1451"/>
+  <unicode hex="011A"/>
+  <anchor x="737" y="1627" name="top"/>
+  <anchor x="737" y="-64" name="bottom"/>
+  <outline>
+    <component base="E"/>
+    <component base="uni030C" xOffset="737" yOffset="1627"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

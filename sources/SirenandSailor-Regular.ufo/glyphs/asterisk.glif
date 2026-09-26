@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asterisk" format="2">
+  <advance width="579"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="289.4907" y="1484.8" type="line"/>
+      <point x="268.6669" y="1321.1443" type="line"/>
+      <point x="258.7707" y="1296.6371" type="line"/>
+      <point x="232.5987" y="1300.3205" type="line"/>
+      <point x="80.4571" y="1364.1143" type="line"/>
+      <point x="211.7749" y="1264.2523" type="line"/>
+      <point x="228.0507" y="1243.4286" type="line"/>
+      <point x="211.7749" y="1222.6048" type="line"/>
+      <point x="80.4571" y="1122.7429" type="line"/>
+      <point x="232.5987" y="1186.5366" type="line"/>
+      <point x="258.7707" y="1190.2201" type="line"/>
+      <point x="268.6669" y="1165.7128" type="line"/>
+      <point x="289.4907" y="1002.0571" type="line"/>
+      <point x="310.3144" y="1165.7128" type="line"/>
+      <point x="320.2107" y="1190.2201" type="line"/>
+      <point x="346.3826" y="1186.5366" type="line"/>
+      <point x="498.5242" y="1122.7429" type="line"/>
+      <point x="367.2064" y="1222.6048" type="line"/>
+      <point x="350.9307" y="1243.4286" type="line"/>
+      <point x="367.2064" y="1264.2523" type="line"/>
+      <point x="498.5242" y="1364.1143" type="line"/>
+      <point x="346.3826" y="1300.3205" type="line"/>
+      <point x="320.2107" y="1296.6371" type="line"/>
+      <point x="310.3144" y="1321.1443" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

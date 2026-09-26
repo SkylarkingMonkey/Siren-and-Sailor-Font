@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Cdotaccent" format="2">
+  <advance width="1233"/>
+  <unicode hex="010A"/>
+  <anchor x="620" y="1650" name="top"/>
+  <anchor x="620" y="-57" name="bottom"/>
+  <outline>
+    <component base="C"/>
+    <component base="uni0307" xOffset="620" yOffset="1650"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

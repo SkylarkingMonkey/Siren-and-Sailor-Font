@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="racute" format="2">
+  <advance width="726"/>
+  <unicode hex="0155"/>
+  <anchor x="379" y="1123" name="top"/>
+  <anchor x="379" y="-31" name="bottom"/>
+  <outline>
+    <component base="r"/>
+    <component base="acutecomb" xOffset="379" yOffset="1123"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

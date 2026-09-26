@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omacron" format="2">
+  <advance width="894"/>
+  <unicode hex="014D"/>
+  <anchor x="446" y="1107" name="top"/>
+  <anchor x="446" y="-1" name="bottom"/>
+  <outline>
+    <component base="o"/>
+    <component base="uni0304" xOffset="446" yOffset="1107"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

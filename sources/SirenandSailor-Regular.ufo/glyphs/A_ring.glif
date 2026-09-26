@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aring" format="2">
+  <advance width="1536"/>
+  <unicode hex="00C5"/>
+  <anchor x="768" y="1609" name="top"/>
+  <anchor x="768" y="-25" name="bottom"/>
+  <outline>
+    <component base="A"/>
+    <component base="uni030A" xOffset="768" yOffset="1609"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

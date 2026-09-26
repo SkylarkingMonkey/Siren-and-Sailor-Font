@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Scaron" format="2">
+  <advance width="1192"/>
+  <unicode hex="0160"/>
+  <anchor x="597" y="1684" name="top"/>
+  <anchor x="597" y="-82" name="bottom"/>
+  <outline>
+    <component base="S"/>
+    <component base="uni030C" xOffset="597" yOffset="1684"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="underscore" format="2">
+  <advance width="1220"/>
+  <unicode hex="005F"/>
+  <outline>
+    <contour>
+      <point x="80.4571" y="-247.2229" type="curve"/>
+      <point x="80.4571" y="-292.5714" type="line"/>
+      <point x="157.9886" y="-261.8514"/>
+      <point x="225.28" y="-272.0914"/>
+      <point x="314.5143" y="-272.0914" type="curve" smooth="yes"/>
+      <point x="965.4857" y="-272.0914" type="line" smooth="yes"/>
+      <point x="1062.0343" y="-272.0914"/>
+      <point x="1114.6971" y="-238.4457"/>
+      <point x="1139.5657" y="-184.32" type="curve"/>
+      <point x="1081.0514" y="-213.5771"/>
+      <point x="1013.76" y="-222.3543"/>
+      <point x="921.6" y="-222.3543" type="curve" smooth="yes"/>
+      <point x="318.9029" y="-222.3543" type="line"/>
+      <point x="229.6686" y="-216.5029"/>
+      <point x="166.7657" y="-200.4114"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

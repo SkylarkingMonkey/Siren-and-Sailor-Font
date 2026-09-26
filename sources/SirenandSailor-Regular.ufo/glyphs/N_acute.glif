@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nacute" format="2">
+  <advance width="1654"/>
+  <unicode hex="0143"/>
+  <anchor x="828" y="1611" name="top"/>
+  <anchor x="828" y="0" name="bottom"/>
+  <outline>
+    <component base="N"/>
+    <component base="acutecomb" xOffset="828" yOffset="1611"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

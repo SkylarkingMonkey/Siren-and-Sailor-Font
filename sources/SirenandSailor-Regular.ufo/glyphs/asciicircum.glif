@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asciicircum" format="2">
+  <advance width="954"/>
+  <unicode hex="005E"/>
+  <outline>
+    <contour>
+      <point x="80.4571" y="904.0457" type="line"/>
+      <point x="138.9714" y="904.0457" type="line"/>
+      <point x="476.8914" y="1408.7314" type="line"/>
+      <point x="814.8114" y="904.0457" type="line"/>
+      <point x="873.3257" y="904.0457" type="line"/>
+      <point x="514.9257" y="1462.8571" type="line"/>
+      <point x="438.8571" y="1462.8571" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

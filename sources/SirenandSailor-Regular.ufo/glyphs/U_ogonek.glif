@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uogonek" format="2">
+  <advance width="1644"/>
+  <unicode hex="0172"/>
+  <anchor x="828" y="1619" name="top"/>
+  <anchor x="828" y="-35" name="bottom"/>
+  <outline>
+    <component base="U"/>
+    <component base="uni0328" xOffset="1505" yOffset="-35"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

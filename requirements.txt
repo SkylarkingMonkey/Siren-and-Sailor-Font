@@ -1,0 +1,14 @@
+# Build environment pinned from the verified Python 3.12 build.
+attrs==26.1.0
+booleanoperations==0.10.0
+brotli==1.2.0
+cffsubr==0.4.0
+fontmake==3.12.1
+fontMath==0.10.0
+fonttools==4.61.1
+glyphsLib==6.15.0
+openstep-plist==0.5.2
+pyclipper==1.4.0
+skia-pathops==0.9.2
+ufo2ft==3.9.0
+ufoLib2==0.18.1

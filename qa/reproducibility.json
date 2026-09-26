@@ -1,0 +1,5 @@
+{
+  "same_sha256_after_clean_build": true,
+  "sha256": "0fa1535c17cb5f36054cc73802afedf089b355590fea2a0a44c321f6d17a160a",
+  "command": "python scripts/build.py"
+}

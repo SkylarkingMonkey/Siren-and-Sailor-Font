@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="backslash" format="2">
+  <advance width="718"/>
+  <unicode hex="005C"/>
+  <outline>
+    <contour>
+      <point x="122.88" y="1528.6857" type="curve"/>
+      <point x="294.5219" y="987.4286"/>
+      <point x="466.1639" y="446.1714"/>
+      <point x="637.8057" y="-95.0857" type="curve"/>
+      <point x="624.1524" y="-98.9867"/>
+      <point x="610.499" y="-102.8876"/>
+      <point x="596.8457" y="-106.7886" type="curve"/>
+      <point x="424.7161" y="433.981"/>
+      <point x="252.5867" y="974.7504"/>
+      <point x="80.4571" y="1515.52" type="curve"/>
+      <point x="94.5981" y="1519.9086"/>
+      <point x="108.739" y="1524.2971"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

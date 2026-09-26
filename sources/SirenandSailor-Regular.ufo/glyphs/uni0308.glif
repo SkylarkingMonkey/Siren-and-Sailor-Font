@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0308" format="2">
+  <unicode hex="0308"/>
+  <anchor x="0" y="0" name="_top"/>
+  <anchor x="0" y="329" name="top"/>
+  <outline>
+    <contour>
+      <point x="-198.9486" y="115.5657" type="curve"/>
+      <point x="-193.0971" y="182.8571"/>
+      <point x="-162.3771" y="229.6686"/>
+      <point x="-96.5486" y="253.0743" type="curve"/>
+      <point x="-99.4743" y="190.1714"/>
+      <point x="-114.1029" y="133.12"/>
+      <point x="-138.9714" y="100.9371" type="curve"/>
+      <point x="-169.6914" y="89.2343"/>
+      <point x="-191.6343" y="89.2343"/>
+    </contour>
+    <contour>
+      <point x="93.6229" y="115.5657" type="curve"/>
+      <point x="99.4743" y="182.8571"/>
+      <point x="130.1943" y="229.6686"/>
+      <point x="196.0229" y="253.0743" type="curve"/>
+      <point x="193.0971" y="190.1714"/>
+      <point x="178.4686" y="133.12"/>
+      <point x="153.6" y="100.9371" type="curve"/>
+      <point x="122.88" y="89.2343"/>
+      <point x="100.9371" y="89.2343"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>mark</string>
+    </dict>
+  </lib>
+</glyph>

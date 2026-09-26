@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb" format="2">
+  <unicode hex="0300"/>
+  <anchor x="0" y="0" name="_top"/>
+  <anchor x="0" y="329" name="top"/>
+  <outline>
+    <contour>
+      <point x="95.0857" y="14.6286" type="curve"/>
+      <point x="51.2" y="8.7771" type="line"/>
+      <point x="-14.6286" y="77.5314"/>
+      <point x="-105.3257" y="201.8743"/>
+      <point x="-163.84" y="248.6857" type="curve"/>
+      <point x="-144.8229" y="269.1657"/>
+      <point x="-103.8629" y="280.8686"/>
+      <point x="-65.8286" y="264.7771" type="curve"/>
+      <point x="-30.72" y="188.7086"/>
+      <point x="32.1829" y="90.6971"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>mark</string>
+    </dict>
+  </lib>
+</glyph>

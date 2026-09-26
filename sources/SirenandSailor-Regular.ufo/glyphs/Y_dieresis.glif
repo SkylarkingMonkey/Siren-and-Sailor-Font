@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ydieresis" format="2">
+  <advance width="1616"/>
+  <unicode hex="0178"/>
+  <anchor x="809" y="1618" name="top"/>
+  <anchor x="809" y="-56" name="bottom"/>
+  <outline>
+    <component base="Y"/>
+    <component base="uni0308" xOffset="809" yOffset="1618"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

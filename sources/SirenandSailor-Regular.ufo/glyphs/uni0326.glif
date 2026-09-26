@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0326" format="2">
+  <unicode hex="0326"/>
+  <anchor x="0" y="0" name="_bottom"/>
+  <anchor x="0" y="-358" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="-49.7371" y="-89.2343" type="curve"/>
+      <point x="-92.16" y="-166.7657"/>
+      <point x="-48.2743" y="-225.28"/>
+      <point x="27.7943" y="-210.6514" type="curve"/>
+      <point x="8.7771" y="-263.3143"/>
+      <point x="-36.5714" y="-295.4971"/>
+      <point x="-86.3086" y="-326.2171" type="curve"/>
+      <point x="-20.48" y="-318.9029"/>
+      <point x="84.8457" y="-247.2229"/>
+      <point x="95.0857" y="-169.6914" type="curve" smooth="yes"/>
+      <point x="102.4" y="-103.8629"/>
+      <point x="13.1657" y="-61.44"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>mark</string>
+    </dict>
+  </lib>
+</glyph>

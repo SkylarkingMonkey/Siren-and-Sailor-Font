@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ubreve" format="2">
+  <advance width="1084"/>
+  <unicode hex="016D"/>
+  <anchor x="541" y="1128" name="top"/>
+  <anchor x="541" y="-29" name="bottom"/>
+  <outline>
+    <component base="u"/>
+    <component base="uni0306" xOffset="541" yOffset="1128"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

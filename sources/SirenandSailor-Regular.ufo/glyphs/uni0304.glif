@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0304" format="2">
+  <unicode hex="0304"/>
+  <anchor x="0" y="0" name="_top"/>
+  <anchor x="0" y="329" name="top"/>
+  <outline>
+    <contour>
+      <point x="-231.1314" y="92.16" type="line"/>
+      <point x="-81.92" y="114.1029"/>
+      <point x="64.3657" y="115.5657"/>
+      <point x="225.28" y="92.16" type="curve"/>
+      <point x="225.28" y="43.8857" type="line"/>
+      <point x="70.2171" y="57.0514"/>
+      <point x="-77.5314" y="62.9029"/>
+      <point x="-231.1314" y="45.3486" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>mark</string>
+    </dict>
+  </lib>
+</glyph>

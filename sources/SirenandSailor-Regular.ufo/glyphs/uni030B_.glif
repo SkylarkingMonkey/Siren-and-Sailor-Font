@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni030B" format="2">
+  <unicode hex="030B"/>
+  <anchor x="0" y="0" name="_top"/>
+  <anchor x="0" y="329" name="top"/>
+  <outline>
+    <contour>
+      <point x="-212.992" y="14.6286" type="line"/>
+      <point x="-160.1536" y="90.6971"/>
+      <point x="-107.3152" y="188.7086"/>
+      <point x="-77.824" y="264.7771" type="curve"/>
+      <point x="-45.8752" y="280.8686"/>
+      <point x="-11.4688" y="269.1657"/>
+      <point x="4.5056" y="248.6857" type="curve"/>
+      <point x="-44.6464" y="201.8743"/>
+      <point x="-120.832" y="77.5314"/>
+      <point x="-176.128" y="8.7771" type="curve"/>
+    </contour>
+    <contour>
+      <point x="34.2309" y="14.6286" type="line"/>
+      <point x="87.0693" y="90.6971"/>
+      <point x="139.9077" y="188.7086"/>
+      <point x="169.3989" y="264.7771" type="curve"/>
+      <point x="201.3477" y="280.8686"/>
+      <point x="235.7541" y="269.1657"/>
+      <point x="251.7285" y="248.6857" type="curve"/>
+      <point x="202.5765" y="201.8743"/>
+      <point x="126.3909" y="77.5314"/>
+      <point x="71.0949" y="8.7771" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>mark</string>
+    </dict>
+  </lib>
+</glyph>

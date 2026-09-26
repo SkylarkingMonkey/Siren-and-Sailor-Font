@@ -1,0 +1,23 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem latn TRK;
+languagesystem latn AZE;
+languagesystem latn ROM;
+languagesystem latn MOL;
+feature tnum {
+  sub zero by zero.tnum;
+  sub one by one.tnum;
+  sub two by two.tnum;
+  sub three by three.tnum;
+  sub four by four.tnum;
+  sub five by five.tnum;
+  sub six by six.tnum;
+  sub seven by seven.tnum;
+  sub eight by eight.tnum;
+  sub nine by nine.tnum;
+} tnum;
+
+@Above=[gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 uni030A uni030B uni030C];
+@SoftDotted=[i j iogonek];
+@NoDot=[dotlessi dotlessj iogonek.nodot];
+feature ccmp { sub @SoftDotted' @Above by @NoDot; } ccmp;

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="atilde" format="2">
+  <advance width="998"/>
+  <unicode hex="00E3"/>
+  <anchor x="494" y="1145" name="top"/>
+  <anchor x="494" y="-23" name="bottom"/>
+  <outline>
+    <component base="a"/>
+    <component base="tildecomb" xOffset="494" yOffset="1145"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

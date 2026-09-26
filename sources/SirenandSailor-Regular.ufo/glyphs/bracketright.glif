@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketright" format="2">
+  <advance width="493"/>
+  <unicode hex="005D"/>
+  <outline>
+    <contour>
+      <point x="412.5257" y="-248.6857" type="line"/>
+      <point x="80.4571" y="-248.6857" type="line"/>
+      <point x="80.4571" y="-163.84" type="line"/>
+      <point x="115.5657" y="-193.0971"/>
+      <point x="149.2114" y="-201.8743"/>
+      <point x="198.9486" y="-201.8743" type="curve" smooth="yes"/>
+      <point x="361.3257" y="-201.8743" type="line"/>
+      <point x="361.3257" y="1562.3314" type="line"/>
+      <point x="198.9486" y="1562.3314" type="line" smooth="yes"/>
+      <point x="149.2114" y="1562.3314"/>
+      <point x="115.5657" y="1555.0171"/>
+      <point x="80.4571" y="1525.76" type="curve"/>
+      <point x="80.4571" y="1609.1429" type="line"/>
+      <point x="412.5257" y="1609.1429" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

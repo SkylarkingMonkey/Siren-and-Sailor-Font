@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblbase" format="2">
+  <advance width="590"/>
+  <unicode hex="201E"/>
+  <outline>
+    <contour>
+      <point x="142.4011" y="69.4512" type="curve"/>
+      <point x="114.6853" y="60.5464"/>
+      <point x="89.6328" y="36.1736"/>
+      <point x="95.6863" y="4.0857" type="curve" smooth="yes"/>
+      <point x="98.2813" y="-9.6693"/>
+      <point x="106.2361" y="-23.6808"/>
+      <point x="116.9769" y="-32.6825" type="curve" smooth="yes"/>
+      <point x="120.6237" y="-35.7389"/>
+      <point x="129.3533" y="-37.0048"/>
+      <point x="132.0637" y="-40.8532" type="curve" smooth="yes"/>
+      <point x="139.5577" y="-51.4939"/>
+      <point x="138.7653" y="-74.4977"/>
+      <point x="139.5471" y="-87.0176" type="curve" smooth="yes"/>
+      <point x="143.3318" y="-147.6172"/>
+      <point x="110.0701" y="-201.1371"/>
+      <point x="80.4571" y="-251.2486" type="curve"/>
+      <point x="81.2391" y="-251.3696"/>
+      <point x="82.0212" y="-251.4905"/>
+      <point x="82.8032" y="-251.6114" type="curve"/>
+      <point x="99.6605" y="-239.0077"/>
+      <point x="118.6683" y="-225.6711"/>
+      <point x="133.2312" y="-210.3952" type="curve" smooth="yes"/>
+      <point x="167.9673" y="-173.9581"/>
+      <point x="196.3528" y="-121.9659"/>
+      <point x="202.3601" y="-71.4933" type="curve" smooth="yes"/>
+      <point x="203.9954" y="-57.753"/>
+      <point x="204.475" y="-41.38"/>
+      <point x="203.5237" y="-27.5758" type="curve" smooth="yes"/>
+      <point x="203.3079" y="-24.445"/>
+      <point x="201.0277" y="-21.487"/>
+      <point x="201.4933" y="-18.3838" type="curve" smooth="yes"/>
+      <point x="203.0178" y="-8.2223"/>
+      <point x="210.6514" y="1.0674"/>
+      <point x="210.6514" y="12.2564" type="curve" smooth="yes"/>
+      <point x="210.6514" y="39.0007"/>
+      <point x="188.5423" y="65.2676"/>
+      <point x="162.2671" y="69.813" type="curve" smooth="yes"/>
+      <point x="156.2356" y="70.8564"/>
+      <point x="148.5343" y="69.563"/>
+    </contour>
+    <contour>
+      <point x="440.824" y="69.4512" type="curve"/>
+      <point x="413.1082" y="60.5464"/>
+      <point x="388.0556" y="36.1736"/>
+      <point x="394.1092" y="4.0857" type="curve" smooth="yes"/>
+      <point x="396.7042" y="-9.6693"/>
+      <point x="404.6589" y="-23.6808"/>
+      <point x="415.3998" y="-32.6825" type="curve" smooth="yes"/>
+      <point x="419.0466" y="-35.7389"/>
+      <point x="427.7762" y="-37.0048"/>
+      <point x="430.4865" y="-40.8532" type="curve" smooth="yes"/>
+      <point x="437.9806" y="-51.4939"/>
+      <point x="437.1882" y="-74.4977"/>
+      <point x="437.97" y="-87.0176" type="curve" smooth="yes"/>
+      <point x="441.7547" y="-147.6172"/>
+      <point x="408.4929" y="-201.1371"/>
+      <point x="378.88" y="-251.2486" type="curve"/>
+      <point x="379.662" y="-251.3696"/>
+      <point x="380.444" y="-251.4905"/>
+      <point x="381.226" y="-251.6114" type="curve"/>
+      <point x="398.0834" y="-239.0077"/>
+      <point x="417.0911" y="-225.6711"/>
+      <point x="431.654" y="-210.3952" type="curve" smooth="yes"/>
+      <point x="466.3901" y="-173.9581"/>
+      <point x="494.7757" y="-121.9659"/>
+      <point x="500.7829" y="-71.4933" type="curve" smooth="yes"/>
+      <point x="502.4183" y="-57.753"/>
+      <point x="502.8979" y="-41.38"/>
+      <point x="501.9466" y="-27.5758" type="curve" smooth="yes"/>
+      <point x="501.7308" y="-24.445"/>
+      <point x="499.4506" y="-21.487"/>
+      <point x="499.9162" y="-18.3838" type="curve" smooth="yes"/>
+      <point x="501.4407" y="-8.2223"/>
+      <point x="509.0743" y="1.0674"/>
+      <point x="509.0743" y="12.2564" type="curve" smooth="yes"/>
+      <point x="509.0743" y="39.0007"/>
+      <point x="486.9652" y="65.2676"/>
+      <point x="460.6899" y="69.813" type="curve" smooth="yes"/>
+      <point x="454.6584" y="70.8564"/>
+      <point x="446.9571" y="69.563"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

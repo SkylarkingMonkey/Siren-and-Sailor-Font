@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guilsinglright" format="2">
+  <advance width="518"/>
+  <unicode hex="203A"/>
+  <outline>
+    <contour>
+      <point x="80.4571" y="1043.0171" type="line"/>
+      <point x="437.3943" y="608.5486" type="line"/>
+      <point x="437.3943" y="552.96" type="line"/>
+      <point x="80.4571" y="118.4914" type="line"/>
+      <point x="80.4571" y="188.7086" type="line"/>
+      <point x="367.1771" y="580.7543" type="line"/>
+      <point x="80.4571" y="972.8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

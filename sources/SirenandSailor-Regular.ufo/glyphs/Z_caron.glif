@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zcaron" format="2">
+  <advance width="1437"/>
+  <unicode hex="017D"/>
+  <anchor x="718" y="1627" name="top"/>
+  <anchor x="718" y="-60" name="bottom"/>
+  <outline>
+    <component base="Z"/>
+    <component base="uni030C" xOffset="718" yOffset="1627"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

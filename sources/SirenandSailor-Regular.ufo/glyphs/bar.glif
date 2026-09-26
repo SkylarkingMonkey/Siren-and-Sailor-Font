@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bar" format="2">
+  <advance width="212"/>
+  <unicode hex="007C"/>
+  <outline>
+    <contour>
+      <point x="80.4571" y="-321.8286" type="line"/>
+      <point x="131.6571" y="-321.8286" type="line"/>
+      <point x="131.6571" y="1623.7714" type="line"/>
+      <point x="80.4571" y="1623.7714" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

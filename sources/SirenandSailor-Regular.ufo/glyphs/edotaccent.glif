@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="edotaccent" format="2">
+  <advance width="891"/>
+  <unicode hex="0117"/>
+  <anchor x="449" y="1109" name="top"/>
+  <anchor x="449" y="-23" name="bottom"/>
+  <outline>
+    <component base="e"/>
+    <component base="uni0307" xOffset="449" yOffset="1109"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

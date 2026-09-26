@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcaron" format="2">
+  <advance width="860"/>
+  <unicode hex="0165"/>
+  <anchor x="336" y="1390" name="top"/>
+  <anchor x="336" y="-31" name="bottom"/>
+  <outline>
+    <component base="t"/>
+    <component base="caroncomb.alt" xOffset="685" yOffset="958"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

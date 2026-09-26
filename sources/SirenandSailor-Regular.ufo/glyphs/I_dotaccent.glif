@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idotaccent" format="2">
+  <advance width="821"/>
+  <unicode hex="0130"/>
+  <anchor x="410" y="1618" name="top"/>
+  <anchor x="410" y="-56" name="bottom"/>
+  <outline>
+    <component base="I"/>
+    <component base="uni0307" xOffset="410" yOffset="1618"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="divide" format="2">
+  <advance width="1126"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <contour>
+      <point x="80.4571" y="533.2114" type="line"/>
+      <point x="109.7143" y="562.4686"/>
+      <point x="109.7143" y="562.4686"/>
+      <point x="144.8229" y="562.4686" type="curve" smooth="yes"/>
+      <point x="981.5771" y="562.4686" type="line" smooth="yes"/>
+      <point x="1016.6857" y="562.4686"/>
+      <point x="1016.6857" y="562.4686"/>
+      <point x="1045.9429" y="533.2114" type="curve"/>
+      <point x="1045.9429" y="637.0743" type="line"/>
+      <point x="1016.6857" y="607.8171"/>
+      <point x="1016.6857" y="607.8171"/>
+      <point x="981.5771" y="607.8171" type="curve" smooth="yes"/>
+      <point x="144.8229" y="607.8171" type="line" smooth="yes"/>
+      <point x="109.7143" y="607.8171"/>
+      <point x="109.7143" y="607.8171"/>
+      <point x="80.4571" y="637.0743" type="curve"/>
+    </contour>
+    <contour>
+      <point x="612.9371" y="928.9143" type="curve" smooth="yes"/>
+      <point x="612.9371" y="956.3834"/>
+      <point x="590.6691" y="978.6514"/>
+      <point x="563.2" y="978.6514" type="curve" smooth="yes"/>
+      <point x="535.7309" y="978.6514"/>
+      <point x="513.4629" y="956.3834"/>
+      <point x="513.4629" y="928.9143" type="curve" smooth="yes"/>
+      <point x="513.4629" y="901.4452"/>
+      <point x="535.7309" y="879.1771"/>
+      <point x="563.2" y="879.1771" type="curve" smooth="yes"/>
+      <point x="590.6691" y="879.1771"/>
+      <point x="612.9371" y="901.4452"/>
+    </contour>
+    <contour>
+      <point x="612.9371" y="241.3714" type="curve" smooth="yes"/>
+      <point x="612.9371" y="268.8405"/>
+      <point x="590.6691" y="291.1086"/>
+      <point x="563.2" y="291.1086" type="curve" smooth="yes"/>
+      <point x="535.7309" y="291.1086"/>
+      <point x="513.4629" y="268.8405"/>
+      <point x="513.4629" y="241.3714" type="curve" smooth="yes"/>
+      <point x="513.4629" y="213.9024"/>
+      <point x="535.7309" y="191.6343"/>
+      <point x="563.2" y="191.6343" type="curve" smooth="yes"/>
+      <point x="590.6691" y="191.6343"/>
+      <point x="612.9371" y="213.9024"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

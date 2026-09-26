@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ellipsis" format="2">
+  <advance width="916"/>
+  <unicode hex="2026"/>
+  <outline>
+    <contour>
+      <point x="162.3771" y="33.6457" type="curve"/>
+      <point x="160.9482" y="74.5658"/>
+      <point x="105.2451" y="90.4774"/>
+      <point x="85.2517" y="52.8753" type="curve" smooth="yes"/>
+      <point x="82.0489" y="46.8519"/>
+      <point x="80.6935" y="40.4133"/>
+      <point x="80.4571" y="33.6457" type="curve"/>
+      <point x="81.8861" y="-7.2743"/>
+      <point x="137.5892" y="-23.186"/>
+      <point x="157.5826" y="14.4162" type="curve" smooth="yes"/>
+      <point x="160.7854" y="20.4395"/>
+      <point x="162.1407" y="26.8781"/>
+    </contour>
+    <contour>
+      <point x="498.8343" y="33.6457" type="curve"/>
+      <point x="497.4054" y="74.5658"/>
+      <point x="441.7023" y="90.4774"/>
+      <point x="421.7088" y="52.8753" type="curve" smooth="yes"/>
+      <point x="418.506" y="46.8519"/>
+      <point x="417.1507" y="40.4133"/>
+      <point x="416.9143" y="33.6457" type="curve"/>
+      <point x="418.3432" y="-7.2743"/>
+      <point x="474.0463" y="-23.186"/>
+      <point x="494.0398" y="14.4162" type="curve" smooth="yes"/>
+      <point x="497.2426" y="20.4395"/>
+      <point x="498.5979" y="26.8781"/>
+    </contour>
+    <contour>
+      <point x="835.2914" y="33.6457" type="curve"/>
+      <point x="833.8625" y="74.5658"/>
+      <point x="778.1594" y="90.4774"/>
+      <point x="758.1659" y="52.8753" type="curve" smooth="yes"/>
+      <point x="754.9632" y="46.8519"/>
+      <point x="753.6078" y="40.4133"/>
+      <point x="753.3714" y="33.6457" type="curve"/>
+      <point x="754.8003" y="-7.2743"/>
+      <point x="810.5035" y="-23.186"/>
+      <point x="830.4969" y="14.4162" type="curve" smooth="yes"/>
+      <point x="833.6997" y="20.4395"/>
+      <point x="835.055" y="26.8781"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

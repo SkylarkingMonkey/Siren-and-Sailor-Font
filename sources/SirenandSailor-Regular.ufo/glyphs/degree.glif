@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="degree" format="2">
+  <advance width="579"/>
+  <unicode hex="00B0"/>
+  <outline>
+    <contour>
+      <point x="498.8343" y="1214.1714" type="curve" smooth="yes"/>
+      <point x="498.8343" y="1345.8614"/>
+      <point x="405.1774" y="1452.6171"/>
+      <point x="289.6457" y="1452.6171" type="curve" smooth="yes"/>
+      <point x="174.1141" y="1452.6171"/>
+      <point x="80.4571" y="1345.8614"/>
+      <point x="80.4571" y="1214.1714" type="curve" smooth="yes"/>
+      <point x="80.4571" y="1082.4815"/>
+      <point x="174.1141" y="975.7257"/>
+      <point x="289.6457" y="975.7257" type="curve" smooth="yes"/>
+      <point x="405.1774" y="975.7257"/>
+      <point x="498.8343" y="1082.4815"/>
+    </contour>
+    <contour>
+      <point x="456.4114" y="1214.1714" type="curve" smooth="yes"/>
+      <point x="456.4114" y="1105.911"/>
+      <point x="381.7479" y="1018.1486"/>
+      <point x="289.6457" y="1018.1486" type="curve" smooth="yes"/>
+      <point x="197.5436" y="1018.1486"/>
+      <point x="122.88" y="1105.911"/>
+      <point x="122.88" y="1214.1714" type="curve" smooth="yes"/>
+      <point x="122.88" y="1322.4319"/>
+      <point x="197.5436" y="1410.1943"/>
+      <point x="289.6457" y="1410.1943" type="curve" smooth="yes"/>
+      <point x="381.7479" y="1410.1943"/>
+      <point x="456.4114" y="1322.4319"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name=".notdef" format="2">
+  <advance width="1083"/>
+  <outline>
+    <contour>
+      <point x="87.7714" y="0.0" type="line"/>
+      <point x="87.7714" y="1462.8571" type="line"/>
+      <point x="965.4857" y="1462.8571" type="line"/>
+      <point x="965.4857" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="153.6" y="65.8286" type="line"/>
+      <point x="899.6571" y="65.8286" type="line"/>
+      <point x="899.6571" y="1397.0286" type="line"/>
+      <point x="153.6" y="1397.0286" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.openTypeCategory</key>
+      <string>base</string>
+    </dict>
+  </lib>
+</glyph>
