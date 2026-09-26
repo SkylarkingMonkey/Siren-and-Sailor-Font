@@ -33,7 +33,13 @@ Review the new accented letters, symbols and extended Latin forms before making 
 
 ## Rebuild the delivered font
 
-Use Python 3.12 and an isolated environment:
+Use Python 3.12 and an isolated environment. The one-command build is:
+
+```sh
+bash sources/build.sh
+```
+
+Or run the same steps manually:
 
 ```sh
 python -m venv .venv
